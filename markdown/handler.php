@@ -4,7 +4,6 @@
   <head>
     <link rel="stylesheet" type="text/css" href="/~USERNAME/markdown/style.css"/>
     <meta name="content-type" http-equiv="content-type" value="text/html; utf-8"/>
-    <script src="/jsMath/easy/load.js"></script>
   </head>
   <body>
 <?php
