@@ -17,3 +17,31 @@ Installation
 
 Now visit a .md file on your webserver; you should see it as properly
 styled HTML.
+
+
+# H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+#### H4 Heading
+
+##### H5 Heading
+
+###### H6 Heading
+
+Normal Text *Italic Text* **Bold Text**
+
+More Normal Text
+
+* List one
+* List Two
+
+- List three
+- List four
+
+> Block quoted
+> Something or other
+
+http://daringfireball.net/projects/markdown/
