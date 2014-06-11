@@ -12,6 +12,7 @@ Installation
 ------------
 Add this to httpd.conf
 > Action markdown /markdown/handler.php
+
 > AddHandler markdown .md
 
 
