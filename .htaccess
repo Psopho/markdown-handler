@@ -1,2 +1,0 @@
-Action markdown /~USERNAME/markdown/handler.php
-AddHandler markdown .md
