@@ -10,10 +10,10 @@ Fortin](http://www.michelf.com/).
 
 Installation
 ------------
+Add this to httpd.conf
+> Action markdown /markdown/handler.php
+> AddHandler markdown .md
 
-* Copy .htaccess to your root, or update your httpd.conf file with its
-  contents, if you prefer.
-* Copy the markdown directory into your webroot.
 
 Now visit a .md file on your webserver; you should see it as properly
 styled HTML.
